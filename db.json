@@ -1,15 +1,15 @@
 {
   "users": [
-    {
-"id": 1,
-"name": "Leanne Graham",
-"username": "Bret",
-"email": "Sincere@april.biz",
-"street": "Kulas Light",
-"suite": "Apt. 556",
-"city": "Gwenborough",
-"phone": "1-770-736-8031 x56442",
-"website": "hildegard.org"
+{
+   "id":1,
+   "name":"Leanne Graham",
+   "username":"Bret",
+   "email":"Sincere@april.biz",
+   "street":"Kulas Light",
+   "suite":"Apt. 556",
+   "city":"Gwenborough",
+   "phone":"1-770-736-8031 x56442",
+   "website":"hildegard.org"
 },
   ],
   "departments": [
